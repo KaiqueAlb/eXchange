@@ -8,7 +8,7 @@
         <string name="dollar_to_euro">Dólar -> Euro</string>
         <string name="result_text">Resultado: %.2f</string>
         <string name="latest_quotes_title">Últimas Cotações</string>
-        <string name="euro_label">Euro</string>
+        <string name="euro_label" translatable="false">Euro</string>
         <string name="dollar_label">Dólar</string>
-        <string name="quote_item">%s: R$ %s</string>
+        <string name="quote_item" translatable="false">%s: R$ %s</string>
 </resources>
